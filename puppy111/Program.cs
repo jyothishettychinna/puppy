@@ -10,7 +10,7 @@ namespace puppy111
     {
         static void Main(string[] args)
         {
-            //master
+            //master page
         }
     }
 }
